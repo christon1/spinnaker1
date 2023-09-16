@@ -1,0 +1,10 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/christon1/spinnaker1"
+
+[[analyzers]]
+name = "shell"
